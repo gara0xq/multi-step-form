@@ -11,11 +11,11 @@ A **multi-step form** built with Flutter to enhance user experience by breaking 
 
 ## 📂 Project Structure
 
-**lib/  ├── main.dart**
-      **├── screens/**
-      **├── widgets/**
-      **├── controllers/**
-      **└── utils/**
+**lib/  ├── main.dart**\n
+      **├── screens/**\n
+      **├── widgets/**\n
+      **├── controllers/**\n
+      **└── utils/**\n
 
 ## 📸 Screenshots
 
